@@ -1,0 +1,4 @@
+project: PROJECT
+target: break_iterator_fuzzer
+cmds:
+- cmd: /out/break_iterator_fuzzer
